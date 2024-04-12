@@ -1,9 +1,10 @@
-# Music player GUI program
-
-This is the project of my first subject in programming
+# Music Player GUI Program
+Welcome to my first programming project! This project showcases a graphical user interface designed for selecting and playing songs from specific albums, as well as creating playlists of favorite tracks.
 
 ### Disclaimers:
-
-- The program is still buggy, yet I intentionally leave them as they are, it is to show my progress in learning, rather than a well-functinoned program
-- The code does not follow most best practice for maintenance and scaling
-- The logic of the program is far from adequate, many parts is hard-coded
+- The program is a work in progress and may contain bugs. I've intentionally left some issues unresolved to demonstrate my learning journey rather than delivering a fully functional program.
+- There's currently no error handling mechanism implemented, so the program may crash unexpectedly under certain conditions, such as when clicking buttons or if the interface disappears.
+- To use the program, music files must be placed in a folder named "sounds" within the same directory, and they must be in the ".wav" format.
+- Additionally, to create playlists, an empty folder named "playlists" needs to be created within the same directory.
+- The code doesn't adhere to many best practices for maintenance and scalability.
+- The program's logic is rudimentary and contains hard-coded elements that may not be suitable for larger-scale applications.
