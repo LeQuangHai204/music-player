@@ -1,0 +1,85 @@
+6
+Greatest Showman
+Neil Diamond
+1950
+1
+images/pic1.png
+images/pic5.png
+16
+A million dreams
+sounds/a_million_dreams.wav
+Thu cuoi
+sounds/thu_cuoi.wav
+Solo
+sounds/solo.wav
+This is for Africa
+sounds/this_is_for_africa.wav
+Con yeu dau ai roi di
+sounds/con_yeu_dau_ai_roi_di.wav
+Hay trao cho anh
+sounds/hay_trao_cho_anh.wav
+Grand escape
+sounds/grand_escape.wav
+Ong Ba anh
+sounds/ong_ba_anh.wav
+Tan cung noi nho
+sounds/tan_cung_noi_nho.wav
+Speechless
+sounds/speechless.wav
+Something just like this
+sounds/something_just_like_this.wav
+Thang 5 khong tro lai
+sounds/thang5_khong_tro_lai.wav
+Co hen voi thanh xuan
+sounds/co_hen_voi_thanh_xuan.wav
+Giac mo than tien
+sounds/giac_mo_than_tien.wav
+Hai muoi hai
+sounds/hai_muoi_hai.wav
+Dong Mian
+sounds/dong_mien.wav
+Greatest Hits
+Platters
+2007
+3
+images/pic2.png
+images/pic6.png
+2
+Something just like this
+sounds/something_just_like_this.wav
+Thang 5 khong tro lai
+sounds/thang5_khong_tro_lai.wav
+American Pie
+Don McClean
+2024
+3
+images/pic3.png
+images/pic7.png
+0
+Java
+Carly Simon
+2016
+2
+images/pic4.png
+images/pic8.png
+3
+Hay trao cho anh
+sounds/hay_trao_cho_anh.wav
+Grand escape
+sounds/grand_escape.wav
+Ong Ba anh
+sounds/ong_ba_anh.wav
+5-th mystery
+Le Quang Hai
+1976
+1
+images/pic14.png
+images/pic3.png
+0
+6-th night
+Le Quang Hai
+1969
+1
+images/pic10.png
+images/pic6.png
+0
